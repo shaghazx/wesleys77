@@ -1,17 +1,15 @@
-.cabeçalho{
+.cabecalho{
     background-color:#3FAEFE ;
-    color: rgb(0, 0, 0);
-   display: flex;
-justify-content: center;
-align-items: center;
-padding: 24px 0;
-font-size: 12px;
-
+    color: azure
+    display:flex
 }
-.escola{
-color: black;
-display: flex;
-justify-content: center;
-align-items: center;
-padding: 24px 0;
+
+.cabecalho-imagem{
+
+width: 6%;
+ 
+
+
+
+
 }
